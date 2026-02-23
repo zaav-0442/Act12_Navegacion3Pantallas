@@ -14,7 +14,7 @@ Todo en un solo archivo.
 
 <img width="441" height="681" alt="image" src="https://github.com/user-attachments/assets/f0064e76-b803-4199-90a6-20523e1fbd94" />
 <img width="430" height="680" alt="image" src="https://github.com/user-attachments/assets/29b8ca00-705c-4190-b544-0e84ae34ba96" />
-<img width="433" height="689" alt="image" src="https://github.com/user-attachments/assets/6e94153b-0ac6-49b4-b439-9ae5d6dafc2b" />
+<img width="421" height="685" alt="image" src="https://github.com/user-attachments/assets/c56a73af-4031-4683-ba2d-8024e5663530" />
 
 A new Flutter project.
 
