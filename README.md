@@ -8,6 +8,14 @@ En la página 2 un appbar con texto rosa mexicano ("Segunda Págia 6°J"), fondo
 En la página 3 una AppBar con el texto "Página 3".
 Todo en un solo archivo.
 
+<img width="1224" height="698" alt="image" src="https://github.com/user-attachments/assets/5ea8e930-efc8-4dba-84c2-85219d0e2b25" />
+<img width="1220" height="697" alt="image" src="https://github.com/user-attachments/assets/cd39f30e-4bfd-4227-8d8d-3838ff30ed26" />
+<img width="1222" height="697" alt="image" src="https://github.com/user-attachments/assets/8cc8425c-ef0e-4347-9939-9b7aa59082d7" />
+
+<img width="441" height="681" alt="image" src="https://github.com/user-attachments/assets/f0064e76-b803-4199-90a6-20523e1fbd94" />
+<img width="430" height="680" alt="image" src="https://github.com/user-attachments/assets/29b8ca00-705c-4190-b544-0e84ae34ba96" />
+<img width="433" height="689" alt="image" src="https://github.com/user-attachments/assets/6e94153b-0ac6-49b4-b439-9ae5d6dafc2b" />
+
 A new Flutter project.
 
 ## Getting Started
